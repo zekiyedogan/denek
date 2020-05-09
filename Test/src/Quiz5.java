@@ -22,5 +22,6 @@ public class Quiz5 {
   
         findrunres(S, N, M); 
         findrunres(10, 20, 30);
+        System.out.println();
     } 
 }

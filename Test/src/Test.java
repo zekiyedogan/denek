@@ -4,6 +4,7 @@ import java.util.ArrayList;
 public class Test {
 
 public static void main(String[] args) {
+	System.out.println("gh");
 /////////////////////////////////Q1
 //Alliterative("Fred’s friends fried Fritos for Friday’s food");
 /////////////////////////////////Q2
